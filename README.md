@@ -1,7 +1,6 @@
 # petz
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
-[!https://img.shields.io/badge/version-v1.01-brightgreen](https://img.shields.io/badge/version-v1.01-brightgreen)
-[!https://img.shields.io/badge/license-MIT-brightgreen](https://img.shields.io/badge/license-MIT-brightgreen)
+
 petz is a Windows optimizer program built using PowerShell Win Forms. This program allows users to optimize their Windows systems by performing various tasks such as cleaning up temporary files, removing unused programs, and disabling unnecessary services.
 ## Disclaimer
 
